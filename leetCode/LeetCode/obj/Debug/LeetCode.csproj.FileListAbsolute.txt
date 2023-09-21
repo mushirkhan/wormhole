@@ -1,0 +1,14 @@
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\bin\Debug\LeetCode.exe.config
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\bin\Debug\LeetCode.exe
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.AssemblyReference.cache
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+C:\Users\Mushirkhan\source\repos\LeetCode\LeetCode\obj\Debug\LeetCode.pdb
+C:\Projects\mak\wormhole\leetCode\LeetCode\bin\Debug\LeetCode.exe.config
+C:\Projects\mak\wormhole\leetCode\LeetCode\bin\Debug\LeetCode.exe
+C:\Projects\mak\wormhole\leetCode\LeetCode\bin\Debug\LeetCode.pdb
+C:\Projects\mak\wormhole\leetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+C:\Projects\mak\wormhole\leetCode\LeetCode\obj\Debug\LeetCode.exe
+C:\Projects\mak\wormhole\leetCode\LeetCode\obj\Debug\LeetCode.pdb
+C:\Projects\mak\wormhole\leetCode\LeetCode\obj\Debug\LeetCode.csproj.AssemblyReference.cache
