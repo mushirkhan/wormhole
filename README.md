@@ -1,2 +1,2 @@
 # wormhole
-Will save all the code documents in it.
+save all the code documents in it.
